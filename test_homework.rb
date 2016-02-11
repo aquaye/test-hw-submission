@@ -1,2 +1,2 @@
-# write a line of code that multiplies 3 * 5 and prints the result to the terminal
-puts 3 * 5
+# write a line of code that multiplies seven and five and prints the result to the terminal
+puts 7 * 5
